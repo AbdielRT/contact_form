@@ -1,0 +1,22 @@
+legend {
+  margin: 30px auto;
+}
+#inputName,
+#inputLastName {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 49%;
+  box-sizing: border-box;
+}
+#main-footer {
+  /* position: fixed; */
+  background-color: #593196;
+  color: rgba(255, 255, 255, 0.9);
+  padding: 10px 0px;
+  height: 40px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
